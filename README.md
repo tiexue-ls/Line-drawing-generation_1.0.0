@@ -118,7 +118,7 @@ The software implements three core line art extraction algorithms, which users c
 ## 4. Additional Content
 
 ### 4.1 Demo Video (YouTube Link)
-
+https://youtu.be/fM8EwJN3ujI?si=_NzHolWIKnRsPo7f
 
 
 ### 4.2 Development & Runtime Environment
