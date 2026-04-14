@@ -188,5 +188,5 @@ During the development of this software (Image to Line Art), the following open-
 
 **Document Version**: 1.0
 **Last Updated**: March 2025
-**Project Repository**: https://github.com/tiexue-ls/xian_gao_sheng_cheng_1.0.0.git
+**Project Repository**: https://github.com/tiexue-ls/Line-drawing-generation_1.0.0.git
 
